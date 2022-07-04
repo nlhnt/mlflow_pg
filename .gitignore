@@ -130,9 +130,9 @@ dmypy.json
 
 
 # mlflow
-# examples/sklearn_elastic_net_diabetes/mlflow_artifacts/*
-# examples/sklearn_elastic_net_diabetes/mlruns/*
 mlruns
 mlflow_artifacts
 ## sqlite
 *.sqlite
+## png
+*.png
