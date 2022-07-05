@@ -1,2 +1,2 @@
 # mlflow_pg
-Playgroud for mlflow
+Playground for mlflow
